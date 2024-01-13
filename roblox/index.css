@@ -1,0 +1,15 @@
+#roblox {
+    width: 100%;
+    height: 100vh;
+    /* 100% of the viewport height */
+    border: none;
+    /* optional: removes iframe border */
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* optional: hides scrollbars */
+}
